@@ -1,0 +1,50 @@
+body{
+	background-image: url(th.jpg);
+	padding:0;
+	margin:15;
+	
+}
+nav h1{
+	background-image: url(DACU.jpeg);
+	color:rgb(219, 19, 19);
+	height:75px;
+	margin-left:15px;
+	padding-rigth:5px;
+	border-botton:50px;
+	font-size: 50px;
+	border-radius: 50px;
+	
+}
+nav h2{
+	background-color:rgb(2, 5, 7);
+	color:rgb(19, 189, 219);
+	height:25px;
+	margin-left:5px;
+	padding-rigth:5px;
+	border-botton:25px;
+	font-size: 2S5px;
+	border-radius: 10px;
+	
+}
+navbar{
+	background-color:black;
+	height:20px;
+ 	width:40px;
+	border-raduis:50px;
+}
+	
+div{
+	display: flex;
+	color:rgb(26, 219, 19);
+
+
+}
+	
+	div .dav{
+		
+			padding-left: 70px;
+			padding-top: 30%;
+			font-size:30px;
+			border: 10px;
+
+	}
